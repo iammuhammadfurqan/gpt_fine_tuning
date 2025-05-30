@@ -1,5 +1,3 @@
-Absolutely! Here’s a **simple yet detailed README** for your GPT fine-tuning pipeline project:
-
 ````markdown
 # GPT Fine-Tuning Pipeline
 
@@ -149,5 +147,3 @@ For questions or contributions, please reach out:
 ---
 
 Happy fine-tuning! 🚀
-
-```
