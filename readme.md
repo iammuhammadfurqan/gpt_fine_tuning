@@ -31,8 +31,8 @@ This project provides an end-to-end solution for fine-tuning GPT models (e.g., G
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/gpt-fine-tuning-pipeline.git
-   cd gpt-fine-tuning-pipeline
+   git clone https://github.com/iammuhammadfurqan/gpt-fine-tuning.git
+   cd gpt-fine-tuning
 
 2. Create and activate a virtual environment (optional but recommended):
 
