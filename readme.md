@@ -1,4 +1,3 @@
-````markdown
 # GPT Fine-Tuning Pipeline
 
 A modular pipeline to fine-tune GPT models for text generation tasks, with full training, evaluation, and reporting support.
@@ -34,7 +33,6 @@ This project provides an end-to-end solution for fine-tuning GPT models (e.g., G
    ```bash
    git clone https://github.com/yourusername/gpt-fine-tuning-pipeline.git
    cd gpt-fine-tuning-pipeline
-````
 
 2. Create and activate a virtual environment (optional but recommended):
 
